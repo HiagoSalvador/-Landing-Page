@@ -1,6 +1,6 @@
 <h1> Projeto Landing Page</h1>
 <br>
-<h2> Meu primeiro projeto de Landing page, fiz praticamente sozinho. Com a ajuda do DevClub. </h2>
+<h2> Meu primeiro projeto de Landing page, fiz praticamente sozinho,com a ajuda do DevClub. Ao pressionar Contato abre o Formulario. </h2>
 <br>
 <h3>Tecnologias utilizadas: </h3>
 <br>
